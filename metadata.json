@@ -1,0 +1,6 @@
+{
+  "name": "Copywriter AI Pro",
+  "description": "SaaS de criação de conteúdo e copywriting com inteligência artificial e auto-reflexão crítica baseada em 8 critérios de alta conversão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
